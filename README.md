@@ -1,6 +1,6 @@
 # yt-dlp WebUI
 
-基于 yt-dlp 的 WebUI 下载工具，提供直观的网页界面用于视频下载和参数配置。
+基于 [yt-dlp](https://github.com/yt-dlp/yt-dlp) 的 WebUI 下载工具，提供直观的网页界面用于视频下载和参数配置。
 
 ## 功能特性
 
